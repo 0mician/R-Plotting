@@ -1,0 +1,16 @@
+# Virtual Environment
+ve/
+
+# Emacs specific
+\#*#
+*~
+.\#*
+srct/
+.dir-locals.el
+
+#data file
+household_power_consumption.txt
+
+.Rhistory
+.RData
+
